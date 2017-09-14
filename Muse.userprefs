@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{9B25BE58-4D02-4499-8C43-59422A04EE73}|Unit Tests">
   <MonoDevelop.Ide.Workbench ActiveDocument="Muse/Tests.cs">
     <Files>
-      <File FileName="Muse/Tests.cs" Line="43" Column="4" />
+      <File FileName="Muse/Tests.cs" Line="37" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,4 +10,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Muse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>
